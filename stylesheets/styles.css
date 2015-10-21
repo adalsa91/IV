@@ -68,7 +68,7 @@
   -webkit-font-smoothing: antialiased;
 }
 
-/* normalize.css 2012-02-07T12:37 UTC - http://github.com/necolas/normalize.css */
+/* normalize.css 2012-02-07T12:37 UTC - https://github.com/necolas/normalize.css */
 /* =============================================================================
    HTML5 display definitions
    ========================================================================== */
@@ -605,7 +605,7 @@ strong {
 }
 
 .wrapper {
-  max-width: 1024px;
+  max-width: 650px;
   margin: 0 auto;
   position: relative;
   padding: 0 20px;
@@ -623,9 +623,9 @@ blockquote {
 }
 
 code {
-  font-family: Telex, "Lucida Sans", Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal;
+  font-family: "Lucida Sans", Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal;
   color: #efefef;
-  font-size: 1.1em;
+  font-size: 13px;
   margin: 0 4px;
   padding: 4px 6px;
   -moz-border-radius: 2px;
@@ -709,7 +709,7 @@ dt {
   box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
 }
 #header nav {
-  max-width: 1024px;
+  max-width: 650px;
   margin: 0 auto;
   padding: 0 10px;
   background: blue;
@@ -781,7 +781,7 @@ dt {
 }
 
 section {
-  max-width: 1024px;
+  max-width: 650px;
   padding: 30px 0px 50px 0px;
   margin: 20px 0;
   margin-top: 70px;
